@@ -5,7 +5,9 @@ Script by : KyynXz
 
 Setting
 const teksDelay = 90 // Ngatur delay per teks
+
 const barisDelay = 1000 // Delay antar baris
 
 Type : module
-ini harus npm install chalk dulu ya
+
+ini harus install module chalk dulu ya "npm install chalk"
